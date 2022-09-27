@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+h2{
+    color: aliceblue;
+}
+li{
+    color: aliceblue;
+}
+
+#follow{
+   display: none;
+}
+
